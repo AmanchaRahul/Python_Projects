@@ -1,0 +1,1 @@
+word_list=["sachin","dhoni","virat","rohit","jadeja","hardik"]
